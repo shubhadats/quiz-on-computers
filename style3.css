@@ -1,0 +1,110 @@
+#dev{
+  margin-top: 100px;
+  height: 300px;
+  padding-top:20px;
+  padding-bottom: 40px;
+  width: 1000px;
+  border-radius:20px;
+  background-color:white;
+}
+
+#button1,#button2,#button3,#button4{
+ height: 40px;
+ width: 800px;
+ margin : 10px;
+ text-align: left;
+ background-color:#EDF7FF;
+ font-size:25px;
+}
+
+#hl{
+    text-align: left;
+}
+
+.btn_1 :hover{
+background-color:red;
+}
+
+#button1:hover{
+    height: 50px;
+ width: 820px;
+ margin : 10px;
+ text-align: left;
+ background-color:#EDF7FF;
+ font-size:30px; 
+}
+
+#button2:hover{
+    height: 50px;
+ width: 820px;
+ margin : 10px;
+ text-align: left;
+ background-color:#EDF7FF;
+ font-size:30px; 
+}
+
+#button3:hover{
+    height: 50px;
+ width: 820px;
+ margin : 10px;
+ text-align: left;
+ background-color:#EDF7FF;
+ font-size:30px; 
+}
+
+#button4:hover{
+    height: 50px;
+ width: 820px;
+ margin : 10px;
+ text-align: left;
+ background-color:#EDF7FF;
+ font-size:30px; 
+}
+
+#tik{
+ height:200px;
+}
+
+#kiv{
+  background-color:white;
+  height:550px;
+  width:930px;
+  padding:5px;
+  border-radius: 20px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+}
+
+#div{
+  background-color: lightblue;
+    padding-top:20px;
+
+}
+
+#title{
+    font-size:60px;
+    color: darkgreen;
+}
+
+#next{
+  height:50px;
+  width:200px;
+  font-size:30px;
+  background-color:greenyellow;
+}
+  
+
+  #d{
+    text-align:right;
+  }
+
+  #title1{
+      color:red;
+      font-size:60px;
+  }
+  #next1{
+    height:50px;
+    width:200px;
+    font-size:30px;
+    background-color: red;
+  }
